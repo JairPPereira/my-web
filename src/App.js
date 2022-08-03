@@ -158,6 +158,7 @@ import Details from './components/pages/det';
 
 
 
+
 function App() {
   return (
     <Router>
@@ -312,6 +313,7 @@ function App() {
         <Route path='/deencontrosam' component={Deencontrosam} />
         <Route path='/322518' component={Acasadomedo} />
         <Route path='/det' component={Details} />
+      
 
         
 
