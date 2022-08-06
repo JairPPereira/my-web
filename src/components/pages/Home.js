@@ -52,6 +52,11 @@ export default function Home() {
         </Button></Link>
         <p><br /></p>
 
+        <Link to="/Radios"><Button variant="primary" size="lg" width="80%">
+        Radios
+        </Button></Link>
+        <p><br /></p>
+
           
   
         </nav>
